@@ -21,12 +21,12 @@ The goal of this activity is to refactor the library management system in the `M
 
 3. **Identify Issues**: Identify areas where the system is tightly coupled and lacks cohesion. Make a note of these areas for reference during the refactoring process.
 
-4. **Refactor**: Switch to the `Solution` branch. Here, SOLID principles were applied to refactor the system. Focused on:
+4. **Refactor**: Switch to a `Solution` branch. Here, SOLID principles can be applied to refactor the system. Focused on:
     - Separating concerns and responsibilities into different classes.
     - Reducing dependencies between classes to achieve loose coupling.
     - Enhancing cohesion within individual classes.
 
-5. **Compare and Learn**: After refactoring, compare your solution with the provided refactored version in the `Solution` branch. Analyze the differences and understand the rationale behind each refactoring decision.
+5. **Compare and Learn**: After refactoring, compare your solution with the provided refactored version (will be discussed in class and then provided). Analyze the differences and understand the rationale behind each refactoring decision.
 
 6. **Test and Validate**: Ensure that the refactored system is functioning as expected. Write tests to validate the behavior of the system and its components.
 
